@@ -1,0 +1,2139 @@
+
+*{
+	margin:0;
+	padding: 0;
+	list-style:none;
+}
+body{
+
+	background:#213B59;
+
+
+}
+.modal{
+	width:100%;
+	height: 100vh;
+	background: rgba(0,0,0,0,8);
+	position: absolute;
+}
+
+
+
+
+
+                                    /** HOME */
+
+
+
+
+
+
+
+
+.nombremarca{
+    background-image: url("Nombre de la marca.png") ;
+    background-color: #213B59;
+	height: 15vw;
+	width: 200vw;
+	background-size: 45vw;
+    background-position: center;
+    background-repeat:no-repeat;
+	
+}
+
+.animacionizquierda{
+
+    background-image: url("corazoncito1.gif");
+    background-color:  #213B59;
+    height: 50vw;
+    width: 25vw;
+    background-size: 20vw;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo{
+
+	background-image: url("Logo.png");
+	background-color: #213B59;
+	height: 50vw;
+	width: 50vw;
+	background-size: 45vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+
+.animacionderecha{
+
+	background-image: url("corazoncito2.gif");
+	background-color: #213B59;
+	height: 50vw;
+	width: 25vw;
+	background-size: 20vw;
+	background-position:center;
+	background-repeat:no-repeat;
+
+}
+.barraazul{
+
+	background-color:#213B59;
+	height: 5vw;
+	
+}
+.autobiografia{
+    font-size: 2em;
+	background-color: #213B59;
+	height: 5vw;
+	width: 28vw;
+	background-size: 45vw;
+	background-position:left;
+	background-repeat:no-repeat;
+
+
+}
+.perfilprofesional{
+    font-size: 2em;
+	background-color: #213B59;
+	height: 5vw;
+	width: 50vw;
+	background-size: 45vw;
+	background-position:left;
+	background-repeat:no-repeat;
+
+}
+.habilidadestecnicas{
+	font-size: 2em;
+	background-color: #213B59;
+	height: 5vw;
+	width: 50vw;
+	background-size: 45vw;
+	background-position:left;
+	background-repeat:no-repeat;
+}
+.trabajosrecientes{
+    font-size: 2em;  
+	background-color: #213B59;
+	height: 5vw;
+	width: 50vw;
+	background-size: 45vw;
+	background-position:left;
+	background-repeat:no-repeat;
+
+}
+.habilidadesblandas{
+    font-size: 2em;
+	background-color: #213B59;
+	height: 5vw;
+	width: 98vw;
+	background-size: 45vw;
+	background-position:center;
+	background-repeat:no-repeat;
+
+
+}
+.formacionacademica{
+    font-size:2em;
+    background-color: #213B59;
+	height: 5vw;
+	width: 95vw;
+	background-size: 45vw;
+	background-position:left;
+	background-repeat:no-repeat;
+
+}   
+.contacto{
+
+    font-size: 2em;
+    background-color: #213B59;
+	height: 5vw;
+	width: 50vw;
+	background-size: 45vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 10vw;
+}
+
+.barrablanca{
+    
+    background-image:url("logo.png");
+	background-color: white;
+	height:5vw;
+	background-size: 20vw;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+
+                
+
+
+                         /** AUTOBIOGRAFIA*/
+
+
+
+
+
+
+
+.barra{
+    background-color:#213B59;
+	height: 9vw;
+
+
+}
+.autobiografiaheader{
+    background-image: url("autobiografiaheader.gif");
+    background-color: #213B59;
+	height: 6vw;
+	width: 95vw;
+	background-size: 30vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 10vw;
+
+}
+.trianguloautobiografia1{
+    background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 20vw;
+	width: 95vw;
+	background-size: 15vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 10vw;
+	
+	
+}
+.cuadradoautobiografia1{
+    background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 20vw;
+	width: 95vw;
+	background-size: 13vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 10vw;
+	
+
+}
+.trianguloautobiografia2{
+    background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 20vw;
+	width: 95vw;
+	background-size: 15vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 10vw;
+	
+}
+.cuadradoautobiografia2{
+    background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 20vw;
+	width: 95vw;
+	background-size: 13vw;
+	background-position:left;
+	background-repeat:no-repeat;
+	margin-top: 10vw;
+	
+
+
+}
+
+
+.cuadradoautobiografia3{
+    background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 20vw;
+	width: 95vw;
+	background-size: 13vw;
+	background-position:right;
+	background-repeat:no-repeat;
+	margin-top: 10vw;
+	
+}
+.trianguloautobiografia3{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 20vw;
+	width: 95vw;
+	background-size: 15vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 10vw;
+}
+.cuadradoautobiografia4{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 20vw;
+	width: 95vw;
+	background-size: 13vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 10vw;
+	
+}
+.trianguloautobiografia4{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 20vw;
+	width: 95vw;
+	background-size: 15vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 10vw;
+	}
+.barraazul2{
+	background-color:#213B59;
+	height:10vw;
+}
+.barrablanca2{
+	background-image:url("logo.png");
+	background-color: white;
+	height:5vw;
+	background-size: 20vw;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+               /**            PERFIL PROFESIONAL                 */
+
+
+
+
+
+
+
+
+
+
+.barra3{
+    background-color:#213B59;
+	height: 9vw;
+}
+.perfilprofesionalheader{
+	background-image: url("perfilprofesionalheader.gif");
+    background-color: #213B59;
+	height: 6vw;
+	width: 95vw;
+	background-size: 30vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 10vw;
+}
+.cuadrosladosperfilprofesional1{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradoperfilprofesional1{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+
+}
+.cuadrosladosperfilprofesional2{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradoperfilprofesional2{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 35vw;
+	width: 15vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+
+	
+}
+.perfilprofesionalinformacion{
+	background-image: url("INFORMACION/PERFILPROFESIONAL.png");
+    background-color: #213B59;
+	height: 35vw;
+	width: 95vw;
+	background-size: 60vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradoperfilprofesional3{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 35vw;
+	width: 15vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadrosladosperfilprofesional3{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.fotografialaboralheader{
+	background-image: url("fotografialaboral.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 35vw;
+	background-size: 35vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.hobbiesheader{
+	background-image: url("hobbiesheader.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 35vw;
+	background-size: 35vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadrosladosperfilprofesional4{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradoperfilprofesional4{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 12vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 12vw;
+}
+.foto{
+	background-image: url("INFORMACION/fotoperfil.jpeg");
+    background-color: #213B59;
+	height: 32vw;
+	width: 35vw;
+	background-size: 35vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.hobbies{
+	background-image: url("INFORMACION/HOBBIES.png");
+    background-color: #213B59;
+	height: 32vw;
+	width: 35vw;
+	background-size: 38vw;
+	background-position:center;
+	background-repeat:no-repeat;
+
+}
+.cuadradoperfilprofesional5{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 12vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 12vw;
+}
+.cuadrosladosperfilprofesional5{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradoperfilprofesional6{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+}
+.cuadrosladosperfilprofesional6{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.barraazul3{
+	background-color:#213B59;
+	height:10vw;
+}
+.barrablanca3{
+	background-image:url("logo.png");
+	background-color: white;
+	height:5vw;
+	background-size: 20vw;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+       /** HABILIDADES TECNICAS*/
+
+
+
+
+
+
+
+
+
+.barra2{
+    background-color:#213B59;
+	height: 9vw;
+}
+.habilidadestecnicasheader{
+	background-image: url("habilidadestecnicasheader.gif");
+    background-color: #213B59;
+	height: 6vw;
+	width: 95vw;
+	background-size: 40vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 10vw;
+}
+.cilindrohabilidadestecnicas1{
+	background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradohabilidadestecnicas1{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+}
+.cilindrohabilidadestecnicas2{
+	background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradohabilidadestecnicas2{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 45vw;
+	width: 15vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuboadobe{
+	background-image: url("INFORMACION/CUBOADOBE.gif");
+    background-color: #213B59;
+	height: 45vw;
+	width: 50vw;
+	background-size: 45vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradohabilidadestecnicas3{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 45vw;
+	width: 15vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+
+}
+.cilindrohabilidadestecnicas3{
+    background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 15vw; 
+
+}
+.habilidadestecnicasinformacion{
+	background-image: url("INFORMACION/HABILIDADESTECNICAS.png");
+    background-color: #213B59;
+	height: 40vw;
+	width: 95vw;
+	background-size: 60vw;
+	background-position:top;
+	background-repeat:no-repeat;
+}
+.cilindrohabilidadestecnicas4{
+	background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 15vw; 
+}
+.cuadradohabilidadestecnicas4{
+	background-image: url("CUADRADO.gif");
+    background-color:#213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 10vw;
+}
+.cilindrohabilidadestecnicas5{
+	background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 10vw;
+	margin-left: 5vw; 
+}
+.cuadradohabilidadestecnicas5{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 10vw;
+}
+.barraazul4{
+	background-color:#213B59;
+	height:10vw;
+}
+.barrablanca4{
+	background-image:url("logo.png");
+	background-color: white;
+	height:5vw;
+	background-size: 20vw;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
+                /** TRABAJOS RECIENTES*/
+
+
+
+
+
+
+
+.barra4{
+	background-color:#213B59;
+	height: 9vw;
+}
+.trabajosrecientesheader{
+	background-image: url("trabajosrecientesheader.gif");
+    background-color: #213B59;
+	height: 6vw;
+	width: 95vw;
+	background-size: 40vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 5vw;
+}
+.triangulotrabajosrecientes1{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 5vw;
+}
+.cuadradotrabajosrecientes1{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+	margin-bottom: 5vw;
+}
+.triangulotrabajosrecientes2{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradotrabajosrecientes2{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 30vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.trabajosrecientes3d{
+	background-image: url("INFORMACION/TRABAJOSRECIENTES1.png");
+    background-color: #213B59;
+    height:30vw;
+    width:42vw;
+    background-size: 42vw;
+    background-position:center;
+	background-repeat:no-repeat;
+
+}
+.trabajosrecientesilustracion{
+	background-image: url("INFORMACION/TRABAJOSRECIENTES2.png");
+    background-color: #213B59;
+    height:30vw;
+    width:42vw;
+    background-size: 42vw;
+    background-position:center;
+	background-repeat:no-repeat;
+	
+}
+.cuadradotrabajosrecientes3{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 30vw;
+	width: 10vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.triangulotrabajosrecientes3{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 30vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.trabajosrecientesphotoshop{
+    background-image: url("INFORMACION/TRABAJOSRECIENTES3.png");
+    background-color: #213B59;
+    height:30vw;
+    width:42vw;
+    background-size: 42vw;
+    background-position:center;
+	background-repeat:no-repeat;
+}
+.triangulotrabajosrecientes4{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 30vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradotrabajosrecientes4{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+}
+.triangulotrabajosrecientes5{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+	margin-top: 5vw;
+}
+.cuadradotrabajosrecientes5{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+}
+.barraazul5{
+	background-color:#213B59;
+	height:10vw;
+}
+.barrablanca5{
+	background-image:url("logo.png");
+	background-color: white;
+	height:5vw;
+	background-size: 20vw;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+                     /** HABILIDADES BLANDAS HABILIDADES PUNTUALES */
+
+
+
+.barra5{
+	background-color:#213B59;
+	height: 9vw;
+}
+.habilidadesblandasheader{
+	background-image: url("HABILIDADESBLANDASHEADER.gif");
+    background-color: #213B59;
+	height: 6vw;
+	width: 95vw;
+	background-size: 40vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 5vw;
+}
+
+.cuadrosladoshabilidadesblandas1{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 5vw;
+}
+.cuadradohabilidadesblandas1{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+	margin-bottom: 5vw;
+}
+.cuadrosladoshabildiadesblandas2{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradohabilidadesblandas2{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 40vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.habilidadesblandasinformacion{
+	background-image: url("INFORMACION/HABILIDADESBLANDAS.png");
+    background-color: #213B59;
+	height: 40vw;
+	width: 95vw;
+	background-size: 60vw;
+	background-position:top;
+	background-repeat:no-repeat;
+}
+.cuadradohabilidadesblandas3{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 40vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadrosladoshabildiadesblandas3{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+}
+.habilidadespuntualesheader{
+    background-image: url("HABILIDADESPUNTUALES.gif");
+    background-color: #213B59;
+	height: 6vw;
+	width: 95vw;
+	background-size: 40vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 6vw;
+}
+.cuadrosladoshabildiadesblandas4{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+}
+.cuadradohabilidadesblandas4{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 40vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.habilidadespuntualesinformacion{
+	background-image: url("INFORMACION/HABILIDADESPUNTUALES.png");
+    background-color: #213B59;
+	height: 40vw;
+	width: 95vw;
+	background-size: 60vw;
+	background-position:top;
+	background-repeat:no-repeat;
+}
+.cuadradohabilidadesblandas5{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 40vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadrosladoshabildiadesblandas5{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+}
+.cuadradohabilidadesblandas6{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+	margin-top: 5vw;
+}
+.cuadrosladoshabildiadesblandas6{
+	background-image: url("CUADROSLADOS.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top:5vw;
+}
+
+
+
+
+                /** FORMACION ACADEMICA EXPERIENCIA LABORAL */
+
+
+
+
+
+
+.barraazul6{
+	background-color:#213B59;
+	height:10vw;
+}
+.barrablanca6{
+	background-image:url("logo.png");
+	background-color: white;
+	height:5vw;
+	background-size: 20vw;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.formacionacademicaheader{
+	background-image: url("FORMACIONACADEMICAHEADER.gif");
+    background-color: #213B59;
+	height: 6vw;
+	width: 95vw;
+	background-size: 40vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 5vw;
+}
+.cilindroformacionacademica1{
+	background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 5vw;
+}
+.cuadradoformacionacademica1{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+	margin-bottom: 5vw;
+}
+.cilindroformacionacademica2{
+	background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradoformacionacademica2{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 40vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.formacionacademicainformacion{
+	background-image: url("INFORMACION/FORMACIONACADEMICA.png");
+    background-color: #213B59;
+	height: 40vw;
+	width: 95vw;
+	background-size: 60vw;
+	background-position:top;
+	background-repeat:no-repeat;
+}
+.cuadroformacionacademica3{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 40vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cilindroformacionacademica3{
+	background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 9vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+	
+}
+.experiencialaboralheader{
+	background-image: url("EXPERIENCIALABORAL.gif");
+    background-color: #213B59;
+	height: 6vw;
+	width: 42vw;
+	background-size: 40vw;
+	background-position:right;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+	margin-left: 3vw;
+}
+.cilindroformacionacademica4{
+	background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 9vw;
+	width: 10vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+	margin-left: 3vw;
+	
+}
+.cuadroformacionacademica4{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 40vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.experiencialaboralinformacion{
+	background-image: url("INFORMACION/EXPERIENCIALABORAL.png");
+    background-color: #213B59;
+	height: 40vw;
+	width: 95vw;
+	background-size: 60vw;
+	background-position:top;
+	background-repeat:no-repeat;
+}
+.cuadroformacionacademica5{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 40vw;
+	width: 8vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cilindroformacionacademica5{
+    background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+}
+.cuadroformacionacademica6{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+	margin-top: 5vw;
+}
+.cilindroformacionacademica6{
+	background-image: url("Cilindro.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+}
+.barraazul7{
+	background-color:#213B59;
+	height:10vw;
+}
+.barrablanca7{
+	background-image:url("logo.png");
+	background-color: white;
+	height:5vw;
+	background-size: 20vw;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.barra6{
+	background-color:#213B59;
+	height: 9vw;
+}
+
+
+
+
+        /** CONTACTO */
+
+
+
+.contactoheader{
+	background-image: url("CONTACTOHEADER.gif");
+    background-color: #213B59;
+	height: 6vw;
+	width: 95vw;
+	background-size: 40vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 5vw;
+}
+.triangulocontacto1{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-bottom: 5vw;
+}
+.cuadradocontacto1{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+	margin-bottom: 5vw;
+}
+.triangulocontacto2{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.cuadradocontacto2{
+	background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+}
+.triangulocontacto3{
+	background-image: url("TRIANGULO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-left: 5vw;
+	margin-top: 5vw;
+}
+.cuadradocontacto3{
+    background-image: url("CUADRADO.gif");
+    background-color: #213B59;
+	height: 13vw;
+	width: 95vw;
+	background-size: 10vw;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin-top: 5vw;
+
+
+}
+
+
+                           
+                         
+
+
+
+                /** MEDIA QUERIS */
+
+
+
+
+
+
+
+@media(max-width: 575px){
+
+.nombremarca{
+
+	height:30vw;
+	background-size: 80vw;
+}
+.animacionizquierda{
+
+	height:50vw;
+	background-size: 20vw;
+	width:22vw;
+}
+.animacionderecha{
+
+	height:50vw;
+	background-size:20vw;
+	width:23vw;
+}
+
+	
+.autobiografia{
+    font-size: 2em;
+	height:10vw;
+	background-size: 90vw;
+	width: 100vw;
+	background-position: center;
+}
+.perfilprofesional{
+    font-size: 2em;
+	height:10vw;
+	background-size: 90vw;
+	width:100vw;
+	background-position: center;
+
+}
+.habilidadestecnicas{
+  
+	height:6vw;
+	background-size: 90vw;
+	width:100vw;
+	background-position: center;
+}
+.trabajosrecientes{
+    
+    margin-top: 3vw;
+	height:8vw;
+	background-size: 90vw;
+	width:100vw;
+	background-position: center;
+}
+.habilidadesblandas{
+    margin-top: 1vw;
+	height: 5vw;
+	background-size: 90vw;
+	width:100vw;
+	background-position: center;
+}
+.formacionacademica{
+    margin-top: 3vw;
+    height: 8vw;
+	background-size: 90vw;
+	width:97vw;
+	background-position: right;
+
+}
+.contacto{
+
+	height:8vw;
+	background-size: 90vw;
+	width:100vw;
+	background-position: center;
+	margin-bottom: 10vw
+}
+.barrablanca{
+
+	height:10vw;
+	background-size: 50vw;
+    background-position:center;
+}
+
+
+             
+
+
+               /** AUTOBIOGRAFIA MEDIA QUERIS */
+                      
+
+.autobiografiaheader{
+
+	height: 16vw;
+	background-size: 80vw;
+	width:100vw;
+	background-position: center;
+}
+.trianguloautobiografia1{
+     
+     height: 20vw;
+     background-size: 15vw;
+     width: 35vw;
+     background-position: center;
+
+}
+.cuadradoautobiografia1{
+
+	 height: 20vw;
+     background-size: 12vw;
+     width: 30vw;
+     background-position: center;
+}
+.trianguloautobiografia2{
+     
+     height: 20vw;
+     background-size: 15vw;
+     width: 35vw;
+     background-position: center;
+}
+.cuadradoautobiografia2{
+
+     height: 20vw;
+     background-size: 12vw;
+     width: 18vw;
+     background-position: center;
+     margin-top:10vw;
+
+}
+.video{
+
+	  height: 50vw;
+	  background-size: 60vw;
+	  width: 60vw;
+	  background-position: center;
+	  margin-right: 2vw
+	  
+}
+.cuadradoautobiografia3{
+      
+     height: 20vw;
+     background-size: 12vw;
+     width: 15vw;
+     background-position: left;
+     margin-top:10vw;
+
+}
+.trianguloautobiografia3{
+
+	 height: 20vw;
+     background-size: 15vw;
+     width: 20vw;
+     background-position:right;
+}
+.cuadradoautobiografia4{
+      
+     height: 20vw;
+     background-size: 12vw;
+     width: 36vw;
+     background-position: center;
+     margin-left: 10vw;
+    
+}
+.trianguloautobiografia4{
+
+     height: 20vw;
+     background-size: 15vw;
+     width: 34vw;
+     background-position:center;
+
+}
+.barraazul2{
+	height:10vw;
+	background-size: 50vw;
+	width:100vw;
+	background-position:center;
+}
+.barrablanca2{
+	height:10vw;
+	background-size: 50vw;
+	
+	background-position:center;
+}
+
+                           /** PERFIL PROFESIONAL QUERIS */
+.perfilprofesionalheader{
+    height: 16vw;
+	background-size: 80vw;
+	width:100vw;
+	background-position: center;
+}
+.cuadrosladosperfilprofesional1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-bottom: 5vw;
+}
+.cuadradoperfilprofesional1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+
+}
+.cuadrosladosperfilprofesional2{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadradoperfilprofesional2{
+	 height: 31vw;
+	 background-size: 10vw;
+	 width: 15vw;
+	 background-position: left;
+}
+
+.perfilprofesionalinformacion{
+	 height: 40vw;
+	 background-size: 65vw;
+	 width: 65vw;
+	 background-position: center;
+	 margin-left: 2vw;
+	 
+}
+.cuadradoperfilprofesional3{
+	 height: 31vw;
+	 background-size: 10vw;
+	 width: 15vw;
+	 margin-left: 2vw;
+
+}
+.cuadrosladosperfilprofesional3{
+	 height: 15vw;
+     background-size: 10vw;
+     width: 10vw;
+     background-position: left;
+     margin-left: 2vw;
+
+}
+.fotografialaboralheader{
+	 height: 15vw;
+     background-size: 35vw;
+     width: 35vw;
+     background-position: center;
+}
+.hobbiesheader{
+	 height: 15vw;
+     background-size: 35vw;
+     width: 40vw;
+     background-position: right;
+
+}
+.cuadrosladosperfilprofesional4{
+	 height: 15vw;
+     background-size: 10vw;
+     width: 13vw;
+     background-position: left;
+     margin-right: 2vw;
+}
+.cuadradoperfilprofesional4{
+	 height: 15vw;
+     background-size: 10vw;
+     width: 10vw;
+     background-position: left;
+     margin-right: 2vw;
+}
+.foto{
+	 height:32vw;
+	 background-size: 34vw;
+	 width: 34vw;
+	 background-position: center;
+
+}
+.hobbies{
+	 height:32vw;
+	 background-size: 36vw;
+	 width: 36vw;
+	 background-position: center;
+	 margin-left: 6vw;
+}
+.cuadradoperfilprofesional5{
+	 height: 15vw;
+     background-size: 10vw;
+     width: 10vw;
+     background-position: center;
+     margin-left: 2vw;
+
+}
+.cuadrosladosperfilprofesional5{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-top: 5vw; 
+}
+.cuadradoperfilprofesional6{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-top: 5vw; 
+}
+.cuadrosladosperfilprofesional6{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-top: 5vw; 
+}
+.barrablanca3{
+	height:10vw;
+	background-size: 50vw;
+	background-position:center;
+}
+
+
+
+                /* HABILIDADES TECNICAS QUERIS */
+
+.habilidadestecnicasheader{
+	height: 16vw;
+	background-size: 80vw;
+	width:100vw;
+	background-position: center;
+}
+
+.cilindrohabilidadestecnicas1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-bottom: 5vw;
+}
+.cuadradohabilidadestecnicas1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cilindrohabilidadestecnicas2{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadradohabilidadestecnicas2{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-top: 20vw;
+}
+.cuboadobe{
+	 height:50vw;
+	 background-size: 55vw; 
+	 width: 60vw;
+	 background-color: center;
+}
+.cuadradohabilidadestecnicas3{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-top: 20vw;
+}
+.cilindrohabilidadestecnicas3{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 15vw;
+     background-position: left;
+     margin-top: 5vw;
+}
+.habilidadestecnicasinformacion{
+     height: 50vw;
+     background-size: 60vw;
+     width: 65vw;
+     background-position: right;	
+}
+.cilindrohabilidadestecnicas4{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-top: 5vw;
+}
+.cuadradohabilidadestecnicas4{
+	 height: 15vw;
+	 background-size:10vw;
+	 width:20vw;
+	 background-position: center;
+	 margin-top: 5vw;
+}
+.cilindrohabilidadestecnicas5{
+	 height: 15vw;
+	 background-size:10vw;
+	 width:50vw;
+	 background-position: center;
+	 margin-top: 5vw;
+}
+.cuadradohabilidadestecnicas5{
+	 height: 15vw;
+	 background-size:10vw;
+	 width:25vw;
+	 background-position: left;
+	 margin-top: 5vw;
+}
+.barrablanca4{
+	height:10vw;
+	background-size: 50vw;
+	background-position:center;
+}
+
+
+
+
+                         /** TRABAJOS RECIENTES QUERIS*/
+
+
+.trabajosrecientesheader{
+	height: 16vw;
+	background-size: 80vw;
+	width:100vw;
+	background-position: center;
+}
+.triangulotrabajosrecientes1{
+	 height: 20vw;
+     background-size: 13vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-bottom: 5vw;
+}
+.cuadradotrabajosrecientes1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.triangulotrabajosrecientes2{
+	 height: 20vw;
+     background-size: 13vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadradotrabajosrecientes2{
+	 height: 30vw;
+     background-size: 13vw;
+     width: 9vw;
+     background-position: left;
+     
+}
+.cuadradotrabajosrecientes3{
+	 height: 30vw;
+     background-size: 13vw;
+     width: 9vw;
+     background-position: left;
+}
+.triangulotrabajosrecientes3{
+	 height: 30vw;
+     background-size: 13vw;
+     width: 17vw;
+     background-position: center;
+}
+.trabajosrecientesphotoshop{
+	 height: 30vw;
+	 background-size: 42vw;
+	 width: 69vw;
+	 background-position: center;
+	 margin-top: 5vw;
+}
+.triangulotrabajosrecientes4{
+	  height: 30vw;
+     background-size: 13vw;
+     width: 17vw;
+     background-position: center;
+}
+.cuadradotrabajosrecientes4{
+	height: 20vw;
+     background-size: 13vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-top: 5vw;
+}
+.triangulotrabajosrecientes5{
+	 height: 20vw;
+     background-size: 13vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadradotrabajosrecientes5{
+	 height: 20vw;
+     background-size: 13vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.barrablanca5{
+	 height:10vw;
+	 background-size: 50vw;
+	 background-position:center;
+}
+
+
+                  /** HABILIDADES BLANCAS HABILIDADES PUNTUALES QUERIS */
+
+
+
+.habilidadesblandasheader{
+	 height: 16vw;
+	 background-size: 80vw;
+	 width:100vw;
+	 background-position: center;
+}
+.cuadrosladoshabilidadesblandas1{
+     height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-bottom: 5vw;
+}
+.cuadradohabilidadesblandas1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadrosladoshabildiadesblandas2{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadradohabilidadesblandas2{
+	 height: 40vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.habilidadesblandasinformacion{
+	 height: 40vw;
+     background-size: 60vw;
+     width: 60vw;
+     background-position: center;
+}
+.cuadradohabilidadesblandas3{
+	 height: 40vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadrosladoshabildiadesblandas3{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 15vw;
+     background-position: center;
+     margin-left: 1vw;
+     margin-bottom: : 5vw;
+}
+.habilidadespuntualesheader{
+     height: 18vw;
+     background-size: 55vw;
+     width: 65vw;
+}
+.cuadrosladoshabildiadesblandas4{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 15vw;
+     background-position: center;
+     margin-left: 1vw;
+     margin-bottom: : 5vw;
+}
+.cuadradohabilidadesblandas4{
+	 height: 40vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-top: 5vw;
+}
+.habilidadespuntualesinformacion{
+	 height: 40vw;
+     background-size: 60vw;
+     width: 60vw;
+     background-position: center;
+     margin-top: 5vw;
+}
+.cuadradohabilidadesblandas5{
+	 height: 40vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-top: 5vw;
+}
+.cuadrosladoshabildiadesblandas5{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-bottom: 5vw;
+}
+.cuadradohabilidadesblandas6{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadrosladoshabildiadesblandas6{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.barrablanca6{
+	 height:10vw;
+	 background-size: 50vw;
+	 background-position:center;
+}
+
+
+
+
+
+                     /** FORMACION ACADEMICA EXPERIENCIA LABORAL*/
+
+.formacionacademicaheader{
+	 height: 16vw;
+	 background-size: 80vw;
+	 width:100vw;
+	 background-position: center;
+}
+.cilindroformacionacademica1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-bottom: 5vw;
+}
+.cuadradoformacionacademica1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw; 
+}
+.cilindroformacionacademica2{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadradoformacionacademica2{
+	 height: 40vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadradoformacionacademica2{
+	 height: 40vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.formacionacademicainformacion{
+	 height: 40vw;
+     background-size: 60vw;
+     width: 60vw;
+     background-position: center;
+
+}
+.cuadroformacionacademica3{
+	 height: 40vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     
+}
+.cilindroformacionacademica3{
+	 height: 10vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     
+}
+.experiencialaboralheader{
+	 height: 10vw;
+     background-size: 50vw;
+     width: 52vw;
+     background-position: center;
+}
+.cilindroformacionacademica4{
+	 height: 10vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-left: 4vw;
+    
+}
+.cuadroformacionacademica4{
+	 height: 40vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-top: 5vw;
+}
+.experiencialaboralinformacion{
+	 height: 40vw;
+     background-size: 60vw;
+     width: 60vw;
+     background-position: center;
+     margin-top: 6vw;
+}
+.cuadroformacionacademica5{
+	 height: 40vw;
+     background-size: 10vw;
+     width: 20vw;
+     background-position: center;
+     margin-top: 5vw;
+}
+.cilindroformacionacademica5{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-bottom: 5vw;
+}
+.cuadroformacionacademica6{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw; 
+}
+.cilindroformacionacademica6{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+} 
+.barrablanca7{
+	 height:10vw;
+	 background-size: 50vw;
+	 background-position:center;
+}                     
+
+
+
+                 /** CONTACTO */
+
+
+.contactoheader{
+	 height: 16vw;
+	 background-size: 80vw;
+	 width:100vw;
+	 background-position: center;
+}
+.triangulocontacto1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-bottom: 5vw;
+}
+.cuadradocontacto1{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw; 
+}
+.triangulocontacto2{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+.cuadradocontacto2{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 25vw;
+     background-position: center;
+     margin-left: 3vw;
+     margin-bottom: 5vw;
+}
+.triangulocontacto3{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw; 
+}
+.cuadradocontacto3{
+	 height: 20vw;
+     background-size: 10vw;
+     width: 35vw;
+     background-position: center;
+     margin-bottom: 5vw;
+}
+
+
+}
+
+
+                     
+    
+
+@media(min-width: 576px) and (max-width: 767px){
+
+	
+	
+
+}
+@media(min-width: 768px) and (max-width: 991px){
+	
+
+}
+@media(min-width:992px){
+	
+
+
+}
